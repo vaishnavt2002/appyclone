@@ -59,8 +59,6 @@ pre{
     }
 }
 
-/* media query at width 576 */
-
 @media (max-width: 576px){
     .img-fan{
         width: 7rem;
